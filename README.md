@@ -181,13 +181,6 @@ Sports-Analysis/
 
 ---
 
-## 👨‍💻 Team
-
-**Group 4**
-
-- Sonali
-- Siam University
-
 ---
 
 ## 🎓 Course
