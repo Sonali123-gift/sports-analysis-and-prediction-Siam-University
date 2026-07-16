@@ -187,7 +187,7 @@ Sports-Analysis/
 
 Data Science
 
-Siam University
+Global Academy 
 
 ---
 
